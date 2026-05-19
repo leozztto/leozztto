@@ -1,8 +1,13 @@
 # 👋 Olá, eu sou Leandro Menegazzo Franceschetto
+---
+## Senior Software Engineer 
 
-## 🚀 Senior Software Engineer | Back-End Engineer
+Engenheiro de software back-end com experiência em desenvolvimento de sistemas distribuídos, arquitetura de microsserviços e plataformas cloud/Datacenters.
+Atuo com Java/Kotlin, Spring Boot, Kafka, Docker, Kubernetes e AWS, focando em escalabilidade, resiliência, observabilidade e consistência de dados.
+Experiência com design de APIs, mensageria, CI/CD, bancos relacionais e não relacionais, e também arquitetura orientada a eventos.
 
-Engenheiro de software especializado em desenvolvimento back-end, microsserviços e sistemas distribuídos.
+Formado em sistemas de informação, Pós graduado em MBA em Business Intelligence. Atualmente estudando IA, iniciei a Pós-Graduação - JAVA ELITE - Focada em Java - Agentes de IA. Atuo na área de TI há 10 anos e na área de desenvolvimento há 8 anos
+---
 <!--
 **leozztto/leozztto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
