@@ -51,9 +51,9 @@ Tenho experiência com:
 
 <div align="center">
 
-  <img height="180em" src="https://streak-stats.demolab.com?user=leozztto&theme=dark&border_radius=5&locale=pt_BR"/>
+  <img height="100%" src="https://streak-stats.demolab.com?user=leozztto&theme=dark&border_radius=5&locale=pt_BR"/>
 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leozztto&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"/>
+  <img height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leozztto&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"/>
   
 </div>
 
