@@ -29,7 +29,7 @@ Tenho experiência com:
 
 ---
 
-## 🌎 Contato
+## Contato
 
 <p align="left">
   <a href="https://github.com/leozztto" target="_blank">
@@ -47,7 +47,7 @@ Tenho experiência com:
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 
 <div align="center">
 
@@ -97,7 +97,7 @@ Tenho experiência com:
 
 ---
 
-## 🧠 Áreas de Interesse
+## Áreas de Interesse
 
 - Arquitetura de Microsserviços
 - Event-Driven Architecture
@@ -107,11 +107,3 @@ Tenho experiência com:
 - Cloud Native
 - Alta Performance
 - Inteligência Artificial aplicada ao desenvolvimento
-
----
-
-## 📌 Objetivo
-
-Construir soluções escaláveis, resilientes e orientadas a eventos, utilizando boas práticas de engenharia de software e arquitetura moderna.
-
----
