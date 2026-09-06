@@ -29,6 +29,15 @@ Tenho experiência com:
 
 ---
 
+## Portfólio
+<p align="left">
+  <a href="https://portfolio-leandromf.vercel.app" target="_blank">
+    <img src="https://github.com/user-attachments/assets/9d25adaa-e64f-49e9-a023-1c1af494749e" alt="Meu Portfólio" width="180px">
+  </a>
+</p>
+
+---
+
 ## Contato
 
 <p align="left">
